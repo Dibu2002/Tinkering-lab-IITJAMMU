@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tinkering-lab-IITJAMMU/static/css/main.aca45148.chunk.css",
-    "main.js": "/Tinkering-lab-IITJAMMU/static/js/main.f5548ed2.chunk.js",
-    "main.js.map": "/Tinkering-lab-IITJAMMU/static/js/main.f5548ed2.chunk.js.map",
+    "main.js": "/Tinkering-lab-IITJAMMU/static/js/main.bf2a22dc.chunk.js",
+    "main.js.map": "/Tinkering-lab-IITJAMMU/static/js/main.bf2a22dc.chunk.js.map",
     "runtime-main.js": "/Tinkering-lab-IITJAMMU/static/js/runtime-main.6a8703c9.js",
     "runtime-main.js.map": "/Tinkering-lab-IITJAMMU/static/js/runtime-main.6a8703c9.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Tinkering-lab-IITJAMMU/static/css/2.0a9ec390.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.566fc20d.chunk.js",
     "static/css/main.aca45148.chunk.css",
-    "static/js/main.f5548ed2.chunk.js"
+    "static/js/main.bf2a22dc.chunk.js"
   ]
 }
