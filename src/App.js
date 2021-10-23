@@ -16,11 +16,11 @@ let App =
       <Navbar/>
       <Canvas/>
         <Switch>
-          <Route path="/service"  component={Team} />
-          <Route path="/about"  component={Event} />
-          <Route path="/contact"  component={Contact} />
-          <Route path="/"  component={Mission} />
-          <Redirect to="/"/>
+          <Route path="/Tinkering-lab-IITJAMMU/team"  component={Team} />
+          <Route path="/Tinkering-lab-IITJAMMU/events"  component={Event} />
+          <Route path="/Tinkering-lab-IITJAMMU/contact"  component={Contact} />
+          <Route path="/Tinkering-lab-IITJAMMU"  component={Mission} />
+          <Redirect to="/Tinkering-lab-IITJAMMU"/>
         </Switch>
       </>
     )
