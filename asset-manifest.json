@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Tinkering-lab-IITJAMMU/static/css/main.aca45148.chunk.css",
-    "main.js": "/Tinkering-lab-IITJAMMU/static/js/main.bf2a22dc.chunk.js",
-    "main.js.map": "/Tinkering-lab-IITJAMMU/static/js/main.bf2a22dc.chunk.js.map",
+    "main.css": "/Tinkering-lab-IITJAMMU/static/css/main.173b0305.chunk.css",
+    "main.js": "/Tinkering-lab-IITJAMMU/static/js/main.7ed9dab1.chunk.js",
+    "main.js.map": "/Tinkering-lab-IITJAMMU/static/js/main.7ed9dab1.chunk.js.map",
     "runtime-main.js": "/Tinkering-lab-IITJAMMU/static/js/runtime-main.6a8703c9.js",
     "runtime-main.js.map": "/Tinkering-lab-IITJAMMU/static/js/runtime-main.6a8703c9.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Tinkering-lab-IITJAMMU/static/css/2.0a9ec390.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9f85fe90.chunk.js.map": "/Tinkering-lab-IITJAMMU/static/js/3.9f85fe90.chunk.js.map",
     "index.html": "/Tinkering-lab-IITJAMMU/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/Tinkering-lab-IITJAMMU/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.aca45148.chunk.css.map": "/Tinkering-lab-IITJAMMU/static/css/main.aca45148.chunk.css.map",
+    "static/css/main.173b0305.chunk.css.map": "/Tinkering-lab-IITJAMMU/static/css/main.173b0305.chunk.css.map",
     "static/js/2.566fc20d.chunk.js.LICENSE.txt": "/Tinkering-lab-IITJAMMU/static/js/2.566fc20d.chunk.js.LICENSE.txt",
     "static/media/amit.b28463ea.png": "/Tinkering-lab-IITJAMMU/static/media/amit.b28463ea.png",
     "static/media/prashant.04d4c6ab.png": "/Tinkering-lab-IITJAMMU/static/media/prashant.04d4c6ab.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.6a8703c9.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.566fc20d.chunk.js",
-    "static/css/main.aca45148.chunk.css",
-    "static/js/main.bf2a22dc.chunk.js"
+    "static/css/main.173b0305.chunk.css",
+    "static/js/main.7ed9dab1.chunk.js"
   ]
 }
