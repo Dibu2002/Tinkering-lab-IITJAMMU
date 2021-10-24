@@ -14,7 +14,7 @@ let App =
     return (
       <>
       <Navbar/>
-      <Canvas/>
+      {/* <Canvas/> */}
         <Switch>
           <Route path="/Tinkering-lab-IITJAMMU/team"  component={Team} />
           <Route path="/Tinkering-lab-IITJAMMU/events"  component={Event} />
